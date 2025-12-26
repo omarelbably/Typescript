@@ -1,1 +1,1 @@
-// Lets learn OOP in TypeScript
+// Lets learn OOP in TypeScript - In Arabic
